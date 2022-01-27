@@ -1,1 +1,1 @@
-https://github.com/VaibhaviChauhan/Quiz.git
+LINK: https://vaibhavichauhan.github.io/Quiz/
